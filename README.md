@@ -1,16 +1,6 @@
 
 # Agentic Chatbot
 
-## Application Link
-
-[Agentic Chatbot Application Link](<insert-application-url>)
-
-[![FastAPI Unit Tests](https://github.com/heetmiyani/AgenticChatbot/actions/workflows/pytest.yml/badge.svg)](https://github.com/heetmiyani/AgenticChatbot/actions/workflows/pytest.yml)
-
-# Code Coverage - CodeCov
-Our repository is integrated with CodeCov for code coverage tracking, helping to visualize coverage across the various components of the chatbot.<br>
-![Code Coverage](https://codecov.io/gh/heetmiyani/AgenticChatbot/branch/main/graph/badge.svg)
-
 # Overview
 
 Agentic Chatbot is designed to provide interactive, conversational AI support for users, leveraging NLP and machine learning to deliver responses that simulate human conversation. Its applications can extend to customer service, virtual assistance, and general-purpose information retrieval.
