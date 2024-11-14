@@ -130,7 +130,7 @@ export default function LoanForm({ formData, onChange, errors }: LoanFormProps) 
 
   return (
     <form onSubmit={handleSubmit} className="bg-white p-6 rounded-lg shadow-lg space-y-6">
-      <h2 className="text-2xl font-bold text-gray-800 mb-6">US Loan Application</h2>
+      <h2 className="text-2xl font-bold text-gray-800 mb-6">USA Loan Application</h2>
       
       {Object.keys(formConfig).map((field) => {
         const config = formConfig[field as FormField];
